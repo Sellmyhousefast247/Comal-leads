@@ -1,8 +1,41 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
+Sharmaine,Workman,31110 SMITHSON VALLEY RD,Bulverde,TX,78163,31110 SMITHSON VALLEY,Bulverde,TX,78163
+Robert,Badeaux,524 MEADOW WIND,New Braunfels,TX,78132,524 MEADOW WIND,New Braunfels,TX,78132
+Iv,Mario Gutierrez,,,TX,,,,TX,
+April,Campbell,,,TX,,,,TX,
+Nowak,Linda,,,TX,,,,TX,
+De,Brandon,,,TX,,,,TX,
+Diana,Laxton,,,TX,,,,TX,
+Heidi,Stone,,,TX,,,,TX,
+Christina,Thompson,5057 BLUE IVY,Bulverde,TX,78163,5057 BLUE IVY,Bulverde,TX,78163
+Drew,Goodman,1013 JUNIPER ST,Austin,TX,78702,1962 PARADISE PKWY,Canyon Lake,TX,78133
+Marissa,Diaz,1421 DEVIN DRIVE,New Braunfels,TX,78130,1421 DEVIN,New Braunfels,TX,78130
+Beata,Nickel,3898 RAMBLA ORIENTA,Malibu,CA,90265,13 MOSS ROCK,New Braunfels,TX,78130
+Charles,Richard,747 LANTANA RDG,Spring Branch,TX,78070,747 LANTANA RDG,Spring Branch,TX,78070
+"Lp Dba Vilas At Bulverde, Llc",Sarassu Bulverde,4420 CYPRESS CREEK PARKWAY,Houston,TX,77068,395 HARMONY HILLS,Spring Branch,TX,78130
+Antonio,Jose,534 DANIEL DR UNIT A,New Braunfels,TX,78132,534 DANIEL,New Braunfels,TX,78132
+Crystal,Hardy,3020 PIKE DRIVE,New Braunfels,TX,78132,3020 PIKE DR,New Braunfels,TX,78132
 Churchill,,1259 LOOP 337 STE 300,New Braunfels,TX,78130,507 Denali Pass,,TX,
 Psalm,,7700 BROADWAY STREET,San Antonio,TX,78209,8101 Boat Club Road,,TX,
 Jesus,Garcia,736 SWEETGRASS,New Braunfels,TX,78130,861 Green Castle Place,Canyon Lake,TX,78133
 Fortune,,11409 SHOREVIEW OVERLOOK,Austin,TX,78732,3138 E Elwood St,,TX,
+Bryan,Carter,2062 CANYON LAKE DR,Canyon Lake,TX,78133,,,TX,
+Leon,Moore,871 SIR GALAHAD,Canyon Lake,TX,78133,871 SIR GALAHAD,Canyon Lake,TX,78133
+Teresa,Maria,202 GRUENE RD,New Braunfels,TX,78130,,,TX,
+Jr.,Jose Antonio Jaime,140 NIEMIETZ COVE,Cibolo,TX,78108,,,TX,
+Linda,Fox,3041 ROLLING OAKS DR,New Braunfels,TX,78132,3041 ROLLING OAKS,New Braunfels,TX,78132
+Bruce,Conklin,612 WINDMILL RANCH RD,Spring Branch,TX,78070,612 WINDMILL RANCH,Spring Branch,TX,78070
+James,Difazzio,276 TOUCAN DRIVE,Spring Branch,TX,78070,276 TOUCAN,Spring Branch,TX,78070
+Christopher,Perez,16019 DOMINIC PL,San Antonio,TX,78247,1635 BUSSOLA,New Braunfels,TX,78132
+Alfred,Rendon,22912 N CRANES MILL RD,Canyon Lake,TX,78133,22912 N CRANES MILL,Canyon Lake,TX,78133
+May,Heather,165 VISTA VIEW DRIVE,Spring Branch,TX,78070,165 VISTA VIEW,Spring Branch,TX,78070
+Karl,Ford,1139 BURNING TREE,Spring Branch,TX,78070,1139 BURNING TREE,Spring Branch,TX,78070
+Cadena,Benjamin,2922 BROGAN CREEK,New Braunfels,TX,78130,2922 BROGAN CREEK,New Braunfels,TX,78130
+Tolbert,Cole,1151 AMANDA,Canyon Lake,TX,78133,1151 AMANDA,Canyon Lake,TX,78133
+Angel,Rodriguez,3151 SALITE ST,New Braunfels,TX,78130,3151 SALITE ST,New Braunfels,TX,78130
+Moffett,Gordon,3420 FM 1101,New Braunfels,TX,78130,3420 FM 1101,New Braunfels,TX,78130
+Julio,Garcia,"PSC 480 BOX 1766 APO,",,AE,09128,29610 SIERRA COPPER,Bulverde,TX,78163
+Gonzalez,Sergio,6304 BEGONIA,New Braunfels,TX,78132,6304 BEGONIA,New Braunfels,TX,78132
 Louise,Claire,30211 BULVERDE HILLS DR,Bulverde,TX,78163,30211 BULVERDE HILLS,Bulverde,TX,78163
 Courtney,Paul,1571 DESERT GOLD,Boerne,TX,78006,1571 DESERT GOLD,Boerne,TX,78006
 Mary,Glenewinkel,375 ELEPHANTS EAR DR,New Braunfels,TX,78130,375 ELEPHANTS EAR,New Braunfels,TX,78130
@@ -26,6 +59,9 @@ Jr.,Thomas F Guise,3901 BEAVER CRK,Schertz,TX,78108,3901 BEAVER CRK,Schertz,TX,7
 Robert,Carpenter,1143 POWDER RIDGE,New Braunfels,TX,78132,1135 POWDER RIDGE RD,New Braunfels,TX,78132
 Aka Pamela Hicks,Pamela Hood Hicks,571 WILD TURKEY RUN,New Braunfels,TX,78132,571 WILD TURKEY RUN,New Braunfels,TX,78132
 Aka Sidney Earl Bemus,Sid Bemus,824 MERCURY DR,Canyon Lake,TX,78133,824 MERCURY DR,Canyon Lake,TX,78133
+Rita,Hill,1289 AMANDA,Canyon Lake,TX,78133,1289 AMANDA,Canyon Lake,TX,78133
+Dale,Hemsell,948 RIO VERDE,New Braunfels,TX,78130,948 RIO VERDE,New Braunfels,TX,78130
+John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 ,,,,TX,,00 Deed Of Trust,,TX,
 ,,,,TX,,1300 West Lynn Street,,TX,
 ,,,,TX,,250 Misty Brook Spring,,TX,
@@ -91,6 +127,14 @@ An Unmarried Woman,Susan Kasper,,,TX,,00 P.M. Or No Later,New Braunfels,TX,78130
 ,,,,TX,,4735 This Is An Attempt,,TX,
 "Fowler, Provides That It Secures",Kevan D Fowler And Angela G,,,TX,,8950 Cypress Waters Blvd,New Braunfels,TX,78130
 "Sr, Provides That It Secures The Payment Of Th",Vance B Redix,,,TX,,14160 Dallas Parkway,New Braunfels,TX,78130
+Inc.,Agc Flat Glass North America,,,TX,,,,TX,
+Llc,Rubica Investments,,,TX,,,,TX,
+The,Flugrath,,,TX,,,,TX,
+Hermosa,Llc,,,TX,,,,TX,
+Ricorock,Inc.,,,TX,,,,TX,
+Inc.,Williams Scotsman,,,TX,,,,TX,
+Inc.,Gomeno Properties,,,TX,,,,TX,
+Daniel,Kulick,,,TX,,,,TX,
 Georgine,Krause,431 GRANADA DR,New Braunfels,TX,78130,,,TX,
 Jean,Adams,JEAN A ADAMS TR,New Braunfels,TX,78132,,,TX,
 Castaneda,Cristino,265 S END AVE,New Braunfels,TX,78130,,,TX,
@@ -99,11 +143,56 @@ Kermit,Vetter,25245 MICKESCH LN,New Braunfels,TX,78132,,,TX,
 Aka Joyce B Kalthoff,Joyce Evelyn Barnett Kalthoff,1151 COUNTRY LIVING RD,Baker,FL,32531,1143 PARTON,Canyon Lake,TX,78133
 Charles,Ricketts,441 RED ROSE ST,Spring Branch,TX,78070,,,TX,
 Robert,Gunn,828 GHOST DANCER,Fischer,TX,78623,,,TX,
+Joe,Kennedy,2229 LOMBARDY,New Braunfels,TX,78132,,,TX,
+Aka Carol Diane Riek Brown,Carol Diane Brown,5504 DEVONWOOD STREET,Cibolo,TX,78108,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,,TX,
+Joseph,Taylor,2211 HORNED OWL ST,Grand Prairie,TX,75052,,,TX,
+Taylor,Joseph,2211 HORNED OWL ST,Grand Prairie,TX,75052,,,TX,
+Joseph,Taylor,2211 HORNED OWL ST,Grand Prairie,TX,75052,,,TX,
 "Llc,Devon Monsegue, Jr.,Rose & The Grove, Llc",Dmj Real Property Acquisitions,,,TX,,,,TX,
+Barbara,Morris,,,TX,,,,TX,
+"Aka L G Gibbens,Aka Lisa Carter Gibbens,Aka Lisa G Gibbens,Aka Lisa Gibbens",Lisa Gail Gibbens,,,TX,,,,TX,
 Justin Tremaine Albritton,Jaclyn Rae Garcia,,,TX,,,,TX,
+Joe,Ibarra,,,TX,,,,TX,
+Debi,Rosales,,,TX,,,,TX,
+Ashley,Mcneece,,,TX,,,,TX,
+Timothy,Simmons,,,TX,,,,TX,
+Stephen,Glenn,,,TX,,,,TX,
+Sherry,Lockley,,,TX,,,,TX,
+Wesley,Wolfe,,,TX,,,,TX,
+Sarabia,Sabrina,,,TX,,,,TX,
+Brooke,Thackery,,,TX,,,,TX,
+Rebecca,Rodriguez,,,TX,,,,TX,
+Christian,Cumiford,,,TX,,,,TX,
+Tony,Torres-Aponte,,,TX,,,,TX,
+Andre,Reyes,,,TX,,,,TX,
+Dorian,Perez,,,TX,,,,TX,
+Samson,Ponce,,,TX,,,,TX,
+Kristina,Gomez,,,TX,,,,TX,
+Donald,Salas,,,TX,,,,TX,
+Graham,Ginger,,,TX,,,,TX,
+Williams,Mariah,,,TX,,,,TX,
+Melainie,Buer,,,TX,,,,TX,
+Marisol,Meza,,,TX,,,,TX,
+Ford,Derek,,,TX,,,,TX,
+Perez,Angie,,,TX,,,,TX,
+Medina,Belinda,,,TX,,,,TX,
+Cheyenne,Jackson,,,TX,,,,TX,
+Gabriel Cardenas,Compass Landscaping Llc,,,TX,,,,TX,
+Albert Garza,Sarah Garza,,,TX,,,,TX,
+Savannah,Andrews,,,TX,,,,TX,
+Sabrina,Velarde,,,TX,,,,TX,
+Aubriana,Montoya,,,TX,,,,TX,
+Kimberley,Hoffman,,,TX,,,,TX,
+Shantel,Houston,,,TX,,,,TX,
+Ivan,Gordillo,,,TX,,,,TX,
+Tommy Santoya,Ray Santoya,,,TX,,,,TX,
+Bradbury,Mallory,,,TX,,,,TX,
+Duaa,Mahmud,,,TX,,,,TX,
+Kimberly,Brown,,,TX,,,,TX,
+Will,George,,,TX,,,,TX,
 Cindy,Close,,,TX,,,,TX,
 Aka Alice Beryl Lagrone,Alice Hollon Lagrone,,,TX,,,,TX,
 Marvin,Giambernardi,,,TX,,,,TX,
@@ -146,3 +235,11 @@ Michael,Clair,,,TX,,,,TX,
 D,William,,,TX,,,,TX,
 Aka Steven Roland Hook,Steven R Hook,,,TX,,,,TX,
 Harry,George,,,TX,,,,TX,
+Aka Nancy Marie Tiller,Nancy Triska Tiller,,,TX,,,,TX,
+L,Donna,,,TX,,,,TX,
+Aka Larry D Wickwar,Larry Dwayne Wickwar,,,TX,,,,TX,
+"Jr.,Aka R Michael Ziegler",Raiford Michael Ziegler,,,TX,,,,TX,
+"Jr.,Aka Richard Arnold Achilles, Jr.",Richard A Achilles,,,TX,,,,TX,
+Larry,Erben,,,TX,,,,TX,
+Aka Dave Newby,David Alfred Newby,,,TX,,,,TX,
+"Aka Ruth Ann Morgan-Palmer,Aka Andie Palmer,Aka Ruth Ann Rosenlund",Ruth A Morgan-Palmer,,,TX,,,,TX,
