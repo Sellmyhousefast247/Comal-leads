@@ -1,15 +1,23 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
-Scott,Francis,10012 SUMMER MDWS,Spring Branch,TX,78070,10012 SUMMER MEADOWS,Spring Branch,TX,78070
-Oscar,Garcia,1869 LUNA ST,New Braunfels,TX,78132,,,TX,
-Jesus,Perez,1726 PALMER VIEW,San Antonio,TX,78260,,,TX,
-"Jr., Deceased",Estate Ofjames Paul Settles,,,TX,,,,TX,
-Jaylin,Smith,,,TX,,,,TX,
-Lopez,Eddie,,,TX,,,,TX,
+Wesley,Mark,836 SOUTHWIND DR,New Braunfels,TX,78130,836 SOUTHWIND,New Braunfels,TX,78130
+C,Jason,1122 MARLYS AVE,Canyon Lake,TX,78133,1122 MARLYS,Canyon Lake,TX,78133
+Christine,Brown,1723 MOUNTAIN SPGS,Canyon Lake,TX,78133,1723 MOUNTAIN SPGS,Canyon Lake,TX,78133
+Aka Patrick E Smith,Patrick Smith,1400 KNOLL SCHWOPE RD,Spring Branch,TX,78070,,,TX,
+Lopez,George,14107 SLEEPY HOLLOW DR,Pflugerville,TX,78660,1048 BROOK VALLEY,Canyon Lake,TX,78133
+Deceased,Estate Ofjerry Lee Burklund,,,TX,,,,TX,
+Ronald,Byrd,,,TX,,,,TX,
+Opal Vault Llc,Jana Gonzales Aka Jana L Gonzales,,,TX,,,,TX,
+Chelsea,Stephens,,,TX,,,,TX,
+Miranda,Price,,,TX,,,,TX,
+Kate,Deleon,,,TX,,,,TX,
+Matthew Hargrave,Haley Hargrave,,,TX,,,,TX,
+Keyes,Ronja,,,TX,,,,TX,
 Bret,Barnard,1159 ASTRAL POINT,Spring Branch,TX,78070,2026 Deed Of Trust,New Braunfels,TX,78130
 Jose,Pacheco,295 CALLE PASEO,Guayanilla,PR,00656,2026 Original Deed Of Trust,Canyon Lake,TX,78133
 Jr.,Paul Apoloino Ortega,1257 PALADIN TRL,Spring Branch,TX,78070,1257 PALADIN,Spring Branch,TX,78070
 Pearly,Sowell,317 LAKEVIEW BLVD,New Braunfels,TX,78130,317 LAKEVIEW,New Braunfels,TX,78130
 Daniel,Balmos,1353 TIMBERWOOD TRL,New Braunfels,TX,78132,1353 TIMBERWOOD,New Braunfels,TX,78132
+Scott,Francis,10012 SUMMER MDWS,Spring Branch,TX,78070,10012 SUMMER MEADOWS,Spring Branch,TX,78070
 Eliud,Garcia,1284 MOUNTAIN VIEW DR.,Canyon Lake,TX,78133,1284 MOUNTAIN VIEW,Canyon Lake,TX,78133
 Keri,Rutherford,414 SEELE ST,New Braunfels,TX,78130,414 SEELE,New Braunfels,TX,78130
 Kirkbride,Melissa,1034 CALM BREEZE,New Braunfels,TX,78130,1034 CALM BREEZE,New Braunfels,TX,78130
@@ -22,7 +30,6 @@ Alexander,Iii,1421 GIFFORD PARK,Bulverde,TX,78163,1421 GIFFORD PARK,Bulverde,TX,
 Roxanne,Paine,1984 SANDPIPER DR,New Braunfels,TX,78130,1984 SANDPIPER,New Braunfels,TX,78130
 Bercegeay,Seth,6308 JUNIPER VIEW,New Braunfels,TX,78132,6308 JUNIPER,New Braunfels,TX,78132
 Amy,Scott,3011 SHALE CV,New Braunfels,TX,78130,3011 SHALE,New Braunfels,TX,78130
-Henry,Walter,431 CIELO VISTA,Canyon Lake,TX,78133,431 CIELO VISTA,Canyon Lake,TX,78133
 Shirley,Spinney,1030 CLOVER CIR,New Braunfels,TX,78130,1030 CLOVER,New Braunfels,TX,78130
 Dale,Force,4130 DAY DR,San Marcos,TX,78666,4130 DAY,San Marcos,TX,78666
 Robert,Mccurry,27606 FELS MAUER BLVD,New Braunfels,TX,78132,27606 FELS MAUER,New Braunfels,TX,78132
@@ -41,8 +48,6 @@ Aka Pamela Hicks,Pamela Hood Hicks,571 WILD TURKEY RUN,New Braunfels,TX,78132,57
 Aka Sidney Earl Bemus,Sid Bemus,824 MERCURY DR,Canyon Lake,TX,78133,824 MERCURY DR,Canyon Lake,TX,78133
 Rita,Hill,1289 AMANDA,Canyon Lake,TX,78133,1289 AMANDA,Canyon Lake,TX,78133
 Linda,Fox,3041 ROLLING OAKS DR,New Braunfels,TX,78132,3041 ROLLING OAKS,New Braunfels,TX,78132
-Bruce,Conklin,612 WINDMILL RANCH RD,Spring Branch,TX,78070,612 WINDMILL RANCH,Spring Branch,TX,78070
-James,Difazzio,276 TOUCAN DRIVE,Spring Branch,TX,78070,276 TOUCAN,Spring Branch,TX,78070
 Jr.,Anthony Wayne Cloudt,10310 HUNTERS PATH,New Braunfels,TX,78132,10310 HUNTERS PATH,New Braunfels,TX,78132
 Aka Karl A Schozle,Karl Adolph Scholze,9349 GARDEN RIDGE DR,San Antonio,TX,78266,9349 GARDEN RIDGE,Garden Ridge,TX,78266
 Jack,Miguez,359 S CHESTNUT AVE,New Braunfels,TX,78130,359 S CHESTNUT,New Braunfels,TX,78130
@@ -97,22 +102,13 @@ Leon,De,1620 GREEN MEADOW LN,Spring Branch,TX,78070,1620 Green Meadow,Spring Bra
 ,,,,TX,,500 N. State College Blvd,,TX,
 Arturo,Salinas,5148 EAGLE VALLEY ST,Cibolo,TX,78108,5148 Eagle Valley,Schertz,TX,78154
 ,,,,TX,,500 N. State College Blvd,,TX,
-Silva,Cynthia,326 VALLEY RIDGE,Canyon Lake,TX,78133,326 VALLEY RDG,Canyon Lake,TX,78133
-Moon,Richard,31081 BECK RD,Bulverde,TX,78163,31081 BECK,Bulverde,TX,78163
-Crystal,Martinez,31746 ACACIA VISTA,Bulverde,TX,78163,31746 ACACIA VISTA,Bulverde,TX,78163
-Reginald,Whitley,1426 LYME PARK,Bulverde,TX,78163,1426 LYME PARK,Bulverde,TX,78163
-Reginald,Whitley,1426 LYME PARK,Bulverde,TX,78163,1426 LYME PARK,Bulverde,TX,78163
-Brandon,Acevedo,3136 GORGE WAY,New Braunfels,TX,78132,3136 GORGE WAY,New Braunfels,TX,78132
-Todd,Ditmar,1058 CEDAR CREST DR,Canyon Lake,TX,78133,1058 CEDAR CREST DR,Canyon Lake,TX,78133
-Lecocke,Nicollette,775 BLUEGRASS PT,New Braunfels,TX,78130,775 BLUEGRASS PT,New Braunfels,TX,78130
-Domingo,Gomez,910 HOLLY ST,New Braunfels,TX,78130,910 HOLLY,New Braunfels,TX,78130
-Marcie,Molina,636 COMMUNITY DR,New Braunfels,TX,78132,636 COMMUNITY,New Braunfels,TX,78132
 Kyle,Thomas,754 MAXIMINO RIDGE RD,Bulverde,TX,78163,,,TX,
 Trautman,Michael,2043 STEPPING STONE,New Braunfels,TX,78130,,,TX,
 Ashley Goalden,Dustin Tarter Dba Country Acres Fence & Welding,2391 ROLLING RIVER VIEW,Spring Branch,TX,78070,,,TX,
 Thompson,Joseph,3030 CHARYN WAY,New Braunfels,TX,78132,,,TX,
 D,Jeffrey,29907 CHAUMET,Bulverde,TX,78163,,,TX,
-Castaneda,Cristino,265 S END AVE,New Braunfels,TX,78130,,,TX,
+Oscar,Garcia,1869 LUNA ST,New Braunfels,TX,78132,,,TX,
+Jesus,Perez,1726 PALMER VIEW,San Antonio,TX,78260,,,TX,
 Christopher,Clark,378 NORTHSHORE TRL,New Braunfels,TX,78130,,,TX,
 Kermit,Vetter,25245 MICKESCH LN,New Braunfels,TX,78132,,,TX,
 Aka Joyce B Kalthoff,Joyce Evelyn Barnett Kalthoff,1151 COUNTRY LIVING RD,Baker,FL,32531,1143 PARTON,Canyon Lake,TX,78133
@@ -124,9 +120,9 @@ John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 Donald,Kiesling,1053 SIXTREE DRIVE,New Braunfels,TX,78130,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,New Braunfels,TX,78130
-Jorge,Martinez,526 LONG CREEK RD.,Sunnyvale,TX,75182,,,TX,
 Beverly,Mull,,,TX,,,,TX,
 Iii,Guy Raymond Mckeon,,,TX,,,,TX,
+"Jr., Deceased",Estate Ofjames Paul Settles,,,TX,,,,TX,
 R,Ashley,,,TX,,,,TX,
 Jesse,Diaz,,,TX,,,,TX,
 Mark,Bean,,,TX,,,,TX,
@@ -153,13 +149,12 @@ Debra,Farley,,,TX,,,,TX,
 Daisy,Ramirez,,,TX,,,,TX,
 Theano,Kyrargyros,,,TX,,,,TX,
 Danisha,Stann,,,TX,,,,TX,
+Jaylin,Smith,,,TX,,,,TX,
 Elaine,Luera,,,TX,,,,TX,
 Steensma,Michael,,,TX,,,,TX,
 Shantel,Brietzke,,,TX,,,,TX,
 Zoey,Lonigro,,,TX,,,,TX,
-Joe,Jerry,,,TX,,,,TX,
-Lelia,Guerra,,,TX,,,,TX,
-Leonard,Jay,,,TX,,,,TX,
+Lopez,Eddie,,,TX,,,,TX,
 Covington,Wade,,,TX,,,,TX,
 Christopher,Chambless,,,TX,,,,TX,
 Emmanuel,Valencia,,,TX,,,,TX,
@@ -194,23 +189,10 @@ Aka Larry D Wickwar,Larry Dwayne Wickwar,,,TX,,,,TX,
 Larry,Erben,,,TX,,,,TX,
 Aka Dave Newby,David Alfred Newby,,,TX,,,,TX,
 "Aka Ruth Ann Morgan-Palmer,Aka Andie Palmer,Aka Ruth Ann Rosenlund",Ruth A Morgan-Palmer,,,TX,,,,TX,
+Bruce,Conklin,,,TX,,,,TX,
 Barbara,Morris,,,TX,,,,TX,
+James,Difazzio,,,TX,,,,TX,
 "Aka L G Gibbens,Aka Lisa Carter Gibbens,Aka Lisa G Gibbens,Aka Lisa Gibbens",Lisa Gail Gibbens,,,TX,,,,TX,
 Aka George J Van Kleef,George Jefferson Van Kleef,,,TX,,,,TX,
 Carl,Leslie,,,TX,,,,TX,
 Shon,Warren,,,TX,,,,TX,
-Green,Corrina,,,TX,,,,TX,
-"Llc, Doing Business As Ace Co.,Betty Drennan, Individually,Charles Drennan, Individually",Aceco Construction,,,TX,,,,TX,
-Ware,David,,,TX,,,,TX,
-Frederick,White,,,TX,,,,TX,
-Republic,Llc.,,,TX,,,,TX,
-Jason,Barker,,,TX,,,,TX,
-Virginia,Marsh,,,TX,,,,TX,
-Escamilla,Lisa,,,TX,,,,TX,
-Mark,Bernard,,,TX,,,,TX,
-Unshelia,Bibins,,,TX,,,,TX,
-Athena,Gonzales,,,TX,,,,TX,
-Lorinda,Scott,,,TX,,,,TX,
-Mirzadi,Jatoi,,,TX,,,,TX,
-Tyler,Slattery,,,TX,,,,TX,
-Vickie Mabey,Craig Mabey,,,TX,,,,TX,
