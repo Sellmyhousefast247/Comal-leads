@@ -6,10 +6,6 @@ Pearly,Sowell,317 LAKEVIEW BLVD,New Braunfels,TX,78130,317 LAKEVIEW,New Braunfel
 Daniel,Balmos,1353 TIMBERWOOD TRL,New Braunfels,TX,78132,1353 TIMBERWOOD,New Braunfels,TX,78132
 Scott,Francis,10012 SUMMER MDWS,Spring Branch,TX,78070,10012 SUMMER MEADOWS,Spring Branch,TX,78070
 Wesley,Mark,836 SOUTHWIND DR,New Braunfels,TX,78130,836 SOUTHWIND,New Braunfels,TX,78130
-Eliud,Garcia,1284 MOUNTAIN VIEW DR.,Canyon Lake,TX,78133,1284 MOUNTAIN VIEW,Canyon Lake,TX,78133
-Keri,Rutherford,414 SEELE ST,New Braunfels,TX,78130,414 SEELE,New Braunfels,TX,78130
-Kirkbride,Melissa,1034 CALM BREEZE,New Braunfels,TX,78130,1034 CALM BREEZE,New Braunfels,TX,78130
-Manuel,Rojas,319 AMARYLLIS,New Braunfels,TX,78132,319 AMARYLLIS,New Braunfels,TX,78132
 Alexander,Iii,1421 GIFFORD PARK,Bulverde,TX,78163,1421 GIFFORD PARK,Bulverde,TX,78163
 Jennifer,Blaine,5618 MEADOW SKY,New Braunfels,TX,78132,5618 MEADOW SKY,New Braunfels,TX,78132
 D,Thomas,1431 CAMELLIA LN,New Braunfels,TX,78130,1431 CAMELLIA,New Braunfels,TX,78130
@@ -20,7 +16,6 @@ Bercegeay,Seth,6308 JUNIPER VIEW,New Braunfels,TX,78132,6308 JUNIPER,New Braunfe
 Amy,Scott,3011 SHALE CV,New Braunfels,TX,78130,3011 SHALE,New Braunfels,TX,78130
 C,Jason,1122 MARLYS AVE,Canyon Lake,TX,78133,1122 MARLYS,Canyon Lake,TX,78133
 Christine,Brown,1723 MOUNTAIN SPGS,Canyon Lake,TX,78133,1723 MOUNTAIN SPGS,Canyon Lake,TX,78133
-Shirley,Spinney,1030 CLOVER CIR,New Braunfels,TX,78130,1030 CLOVER,New Braunfels,TX,78130
 Dale,Force,4130 DAY DR,San Marcos,TX,78666,4130 DAY,San Marcos,TX,78666
 Robert,Mccurry,27606 FELS MAUER BLVD,New Braunfels,TX,78132,27606 FELS MAUER,New Braunfels,TX,78132
 Betsy,Buhler,30643 SIDE SADDLE RD,Bulverde,TX,78163,30643 SIDE SADDLE,Bulverde,TX,78163
@@ -92,8 +87,10 @@ Leon,De,1620 GREEN MEADOW LN,Spring Branch,TX,78070,1620 Green Meadow,Spring Bra
 ,,,,TX,,500 N. State College Blvd,,TX,
 Arturo,Salinas,5148 EAGLE VALLEY ST,Cibolo,TX,78108,5148 Eagle Valley,Schertz,TX,78154
 ,,,,TX,,500 N. State College Blvd,,TX,
-Kyle,Thomas,754 MAXIMINO RIDGE RD,Bulverde,TX,78163,,,TX,
-Trautman,Michael,2043 STEPPING STONE,New Braunfels,TX,78130,,,TX,
+Eliud,Garcia,1284 MOUNTAIN VIEW DR.,Canyon Lake,TX,78133,1284 MOUNTAIN VIEW,Canyon Lake,TX,78133
+Keri,Rutherford,414 SEELE ST,New Braunfels,TX,78130,414 SEELE,New Braunfels,TX,78130
+Kirkbride,Melissa,1034 CALM BREEZE,New Braunfels,TX,78130,1034 CALM BREEZE,New Braunfels,TX,78130
+Manuel,Rojas,319 AMARYLLIS,New Braunfels,TX,78132,319 AMARYLLIS,New Braunfels,TX,78132
 Ashley Goalden,Dustin Tarter Dba Country Acres Fence & Welding,2391 ROLLING RIVER VIEW,Spring Branch,TX,78070,,,TX,
 Thompson,Joseph,3030 CHARYN WAY,New Braunfels,TX,78132,,,TX,
 D,Jeffrey,29907 CHAUMET,Bulverde,TX,78163,,,TX,
@@ -112,29 +109,12 @@ John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 Donald,Kiesling,1053 SIXTREE DRIVE,New Braunfels,TX,78130,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,New Braunfels,TX,78130
-Beverly,Mull,,,TX,,,,TX,
+Kyle,Thomas,754 MAXIMINO RIDGE RD,Bulverde,TX,78163,,,TX,
+Trautman,Michael,2043 STEPPING STONE,New Braunfels,TX,78130,,,TX,
 Iii,Guy Raymond Mckeon,,,TX,,,,TX,
 "Jr., Deceased",Estate Ofjames Paul Settles,,,TX,,,,TX,
 Deceased,Estate Ofjerry Lee Burklund,,,TX,,,,TX,
 Ronald,Byrd,,,TX,,,,TX,
-R,Ashley,,,TX,,,,TX,
-Jesse,Diaz,,,TX,,,,TX,
-Mark,Bean,,,TX,,,,TX,
-Christie,Ramos,,,TX,,,,TX,
-Valeriana,Jimenez,,,TX,,,,TX,
-Nancy,Tucker,,,TX,,,,TX,
-Laurie,Mueller,,,TX,,,,TX,
-Hutton,Spilsbury,,,TX,,,,TX,
-Dawn,Marshall,,,TX,,,,TX,
-Linda,Grissom,,,TX,,,,TX,
-Michael,Caraballo,1347 RHINESTONE,Canyon Lake,TX,78133,,,TX,
-Elizabeth,Myers,,,TX,,,,TX,
-Shirley,Mills,,,TX,,,,TX,
-Gaytan,Gustavo,,,TX,,,,TX,
-Armstrong,Helen,,,TX,,,,TX,
-Harris,Valerie,,,TX,,,,TX,
-Terin,Muncaster,,,TX,,,,TX,
-Micah,Harper,,,TX,,,,TX,
 Jackson,Marisa,,,TX,,,,TX,
 Ortega,Alejandro,,,TX,,,,TX,
 James,Boen,,,TX,,,,TX,
@@ -155,7 +135,6 @@ Miranda,Price,,,TX,,,,TX,
 Kate,Deleon,,,TX,,,,TX,
 Matthew Hargrave,Haley Hargrave,,,TX,,,,TX,
 Keyes,Ronja,,,TX,,,,TX,
-Niegos,Catalina,,,TX,,,,TX,
 Aka Nancy Lee Wilkins,Nancy L Wilkins,,,TX,,,,TX,
 Paul,Deltz,,,TX,,,,TX,
 Deceased,Estate Ofcharlotte Springer Muniz,,,TX,,,,TX,
@@ -193,3 +172,22 @@ James,Difazzio,,,TX,,,,TX,
 Aka George J Van Kleef,George Jefferson Van Kleef,,,TX,,,,TX,
 Carl,Leslie,,,TX,,,,TX,
 Shon,Warren,,,TX,,,,TX,
+Beverly,Mull,,,TX,,,,TX,
+R,Ashley,,,TX,,,,TX,
+Jesse,Diaz,,,TX,,,,TX,
+Mark,Bean,,,TX,,,,TX,
+Christie,Ramos,,,TX,,,,TX,
+Valeriana,Jimenez,,,TX,,,,TX,
+Nancy,Tucker,,,TX,,,,TX,
+Laurie,Mueller,,,TX,,,,TX,
+Hutton,Spilsbury,,,TX,,,,TX,
+Dawn,Marshall,,,TX,,,,TX,
+Linda,Grissom,,,TX,,,,TX,
+Michael,Caraballo,1347 RHINESTONE,Canyon Lake,TX,78133,,,TX,
+Elizabeth,Myers,,,TX,,,,TX,
+Shirley,Mills,,,TX,,,,TX,
+Gaytan,Gustavo,,,TX,,,,TX,
+Armstrong,Helen,,,TX,,,,TX,
+Harris,Valerie,,,TX,,,,TX,
+Terin,Muncaster,,,TX,,,,TX,
+Micah,Harper,,,TX,,,,TX,
