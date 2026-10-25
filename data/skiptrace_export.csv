@@ -1,17 +1,31 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
-L,Robin,165 SECRET WAY,Spring Branch,TX,78070,165 SECRET,Spring Branch,TX,78070
-"Aka Samuel D Mason,Aka Sam Mason",Samuel Diaz Mason,497 ROSEMELLOW ST,New Braunfels,TX,78132,497 ROSEMELLOW,New Braunfels,TX,78132
+Robert,Industries,21409 FAIRVIEW CIR,San Antonio,TX,78266,21409 FAIRVIEW,Garden Ridge,TX,78266
+Manuela,Bier,228 OAK CREEK WAY,New Braunfels,TX,78130,,,TX,
+Joseph,Coletto,1644 REBECCA RANCH ROAD,Canyon Lake,TX,78133,,,TX,
+Alice,Godinez,248 LIMESTONE CRK,New Braunfels,TX,78130,248 LIMESTONE CRK,New Braunfels,TX,78130
+Alfred,Martinez,3149 ELK RIVER TRL,Bulverde,TX,78163,,,TX,
+Aceco,Llc,,,TX,,,,TX,
+Olivia,Pearce,,,TX,,,,TX,
+Bradly,Rohde,,,TX,,,,TX,
+H,Rosalinda,,,TX,,,,TX,
+Cassandra,Rivas,,,TX,,,,TX,
 Bret,Barnard,1159 ASTRAL POINT,Spring Branch,TX,78070,2026 Deed Of Trust,New Braunfels,TX,78130
 Jose,Pacheco,295 CALLE PASEO,Guayanilla,PR,00656,2026 Original Deed Of Trust,Canyon Lake,TX,78133
 Rosale,Scott,ROSALE E SCOTT TR,New Braunfels,TX,78132,1032 HANOVER,New Braunfels,TX,78132-2105
 J,Henry,1237 TENDERFOOT,New Braunfels,TX,78132,1237 TENDERFOOT,New Braunfels,TX,78132
 Janice,Force,117 W OUTER DR,Canyon Lake,TX,78133,117 WEST OUTER,Canyon Lake,TX,78133
+L,Robin,165 SECRET WAY,Spring Branch,TX,78070,165 SECRET,Spring Branch,TX,78070
+"Aka Samuel D Mason,Aka Sam Mason",Samuel Diaz Mason,497 ROSEMELLOW ST,New Braunfels,TX,78132,497 ROSEMELLOW,New Braunfels,TX,78132
 J,Michael,32135 ESCAROLE BEND,Bulverde,TX,78163,32135 ESCAROLE BEND,Bulverde,TX,78163
 A,Kimberly,1558 BALCONES FAULT,New Braunfels,TX,78132,1558 BALCONES FAULT,New Braunfels,TX,78132
 Patricia,Johnson,231 CREEKVIEW WAY,New Braunfels,TX,78130,231 CREEKVIEW,New Braunfels,TX,78130
 Omar,Mendoza,26326 ROCKWALL PKWY,New Braunfels,TX,78132,26326 ROCKWALL,New Braunfels,TX,78132
 Garza,Gilbert,1045 LOMA VERDE DR,New Braunfels,TX,78130,1045 LOMA VERDE,New Braunfels,TX,78130
 Norma,Espinoza,742 KILLDEER TRL,New Braunfels,TX,78132,742 KILLDEER TRL,New Braunfels,TX,78132
+James,Kazen,30011 CIBOLO RUN,Fair Oaks Ranch,TX,78015,30011 CIBOLO RUN,Fair Oaks Ranch,TX,78015
+Janet,Ortegon,227 SCHOOL AVE,New Braunfels,TX,78130,227 SCHOOL,New Braunfels,TX,78130
+Carlos,Henriquez,641 NORTHHILL CIR,New Braunfels,TX,78130,641 NORTHHILL,New Braunfels,TX,78130
+Brian,Mcneece,2960 MORLANGA STREET,New Braunfels,TX,78130,2960 MORLANGA ST,New Braunfels,TX,78130
 Betsy,Buhler,30643 SIDE SADDLE RD,Bulverde,TX,78163,30643 SIDE SADDLE,Bulverde,TX,78163
 Jon,Bruckman,2037 ROBIN HOOD DR,Canyon Lake,TX,78133,2037 ROBINHOOD,Canyon Lake,TX,78133
 Laurie,Jasinski,24 RIDGE DR,New Braunfels,TX,78130,24 RIDGE,New Braunfels,TX,78130
@@ -85,6 +99,9 @@ Leon,De,1620 GREEN MEADOW LN,Spring Branch,TX,78070,1620 Green Meadow,Spring Bra
 ,,,,TX,,500 N. State College Blvd,,TX,
 Arturo,Salinas,5148 EAGLE VALLEY ST,Cibolo,TX,78108,5148 Eagle Valley,Schertz,TX,78154
 ,,,,TX,,500 N. State College Blvd,,TX,
+David,Gomez,6091 COMPANION ROAD,Bulverde,TX,78163,,,TX,
+Christopher,Chavez,2532 ACEQUIA DR SW,Albuquerque,NM,87105,,,TX,
+J,Rodriguez,1228 HIGH HILLS DR,Canyon Lake,TX,78133,,,TX,
 Charles,Ricketts,441 RED ROSE ST,Spring Branch,TX,78070,,,TX,
 Robert,Gunn,828 GHOST DANCER,Fischer,TX,78623,,,TX,
 Joe,Kennedy,2229 LOMBARDY,New Braunfels,TX,78132,,,TX,
@@ -93,6 +110,7 @@ John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 Donald,Kiesling,1053 SIXTREE DRIVE,New Braunfels,TX,78130,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,New Braunfels,TX,78130
+"Jana Assenheimer,Serenity At Sorrel Creek, Llc",Grant Revere Bynum,,,TX,,,,TX,
 Aka Julia C Anders,Julia Kent Anders,,,TX,,,,TX,
 Brad,Morris,,,TX,,,,TX,
 Moore Health & Wellness Llc,Tristan Moore,,,TX,,,,TX,
@@ -103,8 +121,39 @@ Vasquez,Laura,,,TX,,,,TX,
 Jessica,Vidal,,,TX,,,,TX,
 Cheryl,Haney,,,TX,,,,TX,
 Olson,Sadynna,,,TX,,,,TX,
-Deceased,Estate Ofcharlotte Springer Muniz,,,TX,,,,TX,
-"Aka Joy Duncan,Aka Cleta J Duncan",Cleta Joy Duncan,,,TX,,,,TX,
+Osorio,Jessica,,,TX,,,,TX,
+Harold,Lawrence,,,TX,,,,TX,
+David,Barrientos,,,TX,,,,TX,
+Granados,Kassandra,,,TX,,,,TX,
+Aikeel,Shakur,,,TX,,,,TX,
+Preston,Lott,,,TX,,,,TX,
+Noor,Yousef,,,TX,,,,TX,
+Morgan,Webb,,,TX,,,,TX,
+Thornhill,Sean,,,TX,,,,TX,
+Jimmy,Lower,,,TX,,,,TX,
+Richard,Downing,,,TX,,,,TX,
+Rian,Onekeo,,,TX,,,,TX,
+Steven,Eastburn,,,TX,,,,TX,
+Jesus,Venegas,,,TX,,,,TX,
+Alexander,Jessica,,,TX,,,,TX,
+W,David,,,TX,,,,TX,
+Holly,Thompson,,,TX,,,,TX,
+Liberty,Maldonado,,,TX,,,,TX,
+Debra,Farley,,,TX,,,,TX,
+Kyle,Robinson,,,TX,,,,TX,
+Sarah,Ibarra,,,TX,,,,TX,
+Raloso,Rainier,,,TX,,,,TX,
+John,Bocquet,,,TX,,,,TX,
+Elisa,Snover,,,TX,,,,TX,
+Michelle,Whitley,,,TX,,,,TX,
+Lynn,Lewis,,,TX,,,,TX,
+Montes,Hector,,,TX,,,,TX,
+Tatayana,Mcintyre,,,TX,,,,TX,
+Meredith,Friar,,,TX,,,,TX,
+Melissa,Voss,,,TX,,,,TX,
+Sara,Cardenas,,,TX,,,,TX,
+Lorelli,Lopez,,,TX,,,,TX,
+Stephanie,Holderfield,,,TX,,,,TX,
 Sanford,William,,,TX,,,,TX,
 Aka Paul Curtis Bezinque,Paul C Bezinque,,,TX,,,,TX,
 Aka Daniel V Rosu,Daniel Victor Rosu,,,TX,,,,TX,
