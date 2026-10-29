@@ -1,18 +1,48 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
-Sue,Mary,901 MADRONA DR,New Braunfels,TX,78132,901 MADRONA,New Braunfels,TX,78132
-James,Taylor,2013 LEGACY DRIVE,Faribault,MN,55021,,,TX,
-Waltraud,Kirschner,924 WHIPPOORWILL DR,Canyon Lake,TX,78133,,,TX,
-Tamie,Gonzales,,,TX,,,,TX,
-"Jr.,Aka James H Rich, Jr.",James Howard Rich,,,TX,,,,TX,
-Hall,Donald,,,TX,,,,TX,
-Aka David Noble,David Harold Noble,,,TX,,,,TX,
-Patterson,Dawn,,,TX,,,,TX,
-Moon,Renee,,,TX,,,,TX,
+Collier,Don,735 LOCKENER AVE,New Braunfels,TX,78130,735 LOCKENER,New Braunfels,TX,78130
+Deborah,Holsey,JAMES R WHITAKER,New Braunfels,TX,78130,1066 LARKSPUR,New Braunfels,TX,78130-6502
+Gonzales,Felix,7031 DEVONSHIRE DRIVE,Spring Branch,TX,78070,7031 DEVONSHIRE,Spring Branch,TX,78070
+Amy,Scott,3011 SHALE CV,New Braunfels,TX,78130,3011 SHALE,New Braunfels,TX,78130
+Edward,Ted,1912 CANYON LAKE DR,Canyon Lake,TX,78133,,,TX,
+Fowler,Kevan,160 GOLD OAKS DR,Spring Branch,TX,78070,,,TX,
+Mary,Abel,7018 BROKEN ARROW,Spring Branch,TX,78070,7018 BROKEN ARROW,Spring Branch,TX,78070
+Jorge,Ramirez,5945 COMPANION LOOP,Bulverde,TX,78163,,,TX,
+Oscar,Rodriguez,29632 DUSTY COPPER,Bulverde,TX,78163,,,TX,
+Adriana,Hernandez,1030 PEGASUS DR,Spring Branch,TX,78070,,,TX,
+Richard,Sean,,,TX,,,,TX,
+Russell,Vandon,,,TX,,,,TX,
+V,Annie,,,TX,,,,TX,
+Felder,Christopher,,,TX,,,,TX,
+Derek,Rodriquez,,,TX,,,,TX,
+Kelly,Crady,,,TX,,,,TX,
+Cynthia,Hunter,,,TX,,,,TX,
+Wehmeyer,Carrie,,,TX,,,,TX,
+Lance,Hilliard,,,TX,,,,TX,
+Alex,Deleon,,,TX,,,,TX,
+Celia,Barber,,,TX,,,,TX,
+Sultanti,Iana,,,TX,,,,TX,
+Brandon,Hunter,,,TX,,,,TX,
+Julia,Katiuzhinsky,,,TX,,,,TX,
+Ashley,Silva,,,TX,,,,TX,
+Connie,Guerra,,,TX,,,,TX,
+Alicia,Mayfield,,,TX,,,,TX,
+Cecil,Iii,,,TX,,,,TX,
+Azyade,Taylor,,,TX,,,,TX,
+Payricia,Sttandberg,,,TX,,,,TX,
+Oralia,Timmermann,,,TX,,,,TX,
+Segundo,Leticia,,,TX,,,,TX,
+Monita,Marie,,,TX,,,,TX,
+Burrow,Zachary,,,TX,,,,TX,
+Robert,Industries,21409 FAIRVIEW CIR,San Antonio,TX,78266,21409 FAIRVIEW,Garden Ridge,TX,78266
 Bret,Barnard,1159 ASTRAL POINT,Spring Branch,TX,78070,2026 Deed Of Trust,New Braunfels,TX,78130
 Jose,Pacheco,295 CALLE PASEO,Guayanilla,PR,00656,2026 Original Deed Of Trust,Canyon Lake,TX,78133
+Manuela,Bier,228 OAK CREEK WAY,New Braunfels,TX,78130,,,TX,
+Joseph,Coletto,1644 REBECCA RANCH ROAD,Canyon Lake,TX,78133,,,TX,
 L,Robin,165 SECRET WAY,Spring Branch,TX,78070,165 SECRET,Spring Branch,TX,78070
 "Aka Samuel D Mason,Aka Sam Mason",Samuel Diaz Mason,497 ROSEMELLOW ST,New Braunfels,TX,78132,497 ROSEMELLOW,New Braunfels,TX,78132
 Jerry,Hicks,1346 HANZ DR,New Braunfels,TX,78130,1346 HANZ,New Braunfels,TX,78130
+Sue,Mary,901 MADRONA DR,New Braunfels,TX,78132,901 MADRONA,New Braunfels,TX,78132
+Matthew,Snover,724 GREY DOVE TRAILS,New Braunfels,TX,78132,724 GREY DOVE TRL,New Braunfels,TX,78132
 Jon,Bruckman,2037 ROBIN HOOD DR,Canyon Lake,TX,78133,2037 ROBINHOOD,Canyon Lake,TX,78133
 Laurie,Jasinski,24 RIDGE DR,New Braunfels,TX,78130,24 RIDGE,New Braunfels,TX,78130
 Donald,Steele,777 TULSA TRL,New Braunfels,TX,78132,777 TULSA TRL,New Braunfels,TX,78132
@@ -38,7 +68,8 @@ Wesley,Mark,836 SOUTHWIND DR,New Braunfels,TX,78130,836 SOUTHWIND,New Braunfels,
 Rosale,Scott,ROSALE E SCOTT TR,New Braunfels,TX,78132,1032 HANOVER,New Braunfels,TX,78132-2105
 J,Henry,1237 TENDERFOOT,New Braunfels,TX,78132,1237 TENDERFOOT,New Braunfels,TX,78132
 Janice,Force,117 W OUTER DR,Canyon Lake,TX,78133,117 WEST OUTER,Canyon Lake,TX,78133
-Richard,Johnson,7963 CIBOLO VW,Fair Oaks Ranch,TX,78015,,,TX,
+James,Taylor,2013 LEGACY DRIVE,Faribault,MN,55021,,,TX,
+Waltraud,Kirschner,924 WHIPPOORWILL DR,Canyon Lake,TX,78133,,,TX,
 ,,,,TX,,00 Deed Of Trust,Spring Branch,TX,12581
 ,,,,TX,,1300 West Lynn Street,Spring Branch,TX,12581
 ,,,,TX,,250 Misty Brook Spring,Spring Branch,TX,12581
@@ -88,19 +119,33 @@ Leon,De,1620 GREEN MEADOW LN,Spring Branch,TX,78070,1620 Green Meadow,Spring Bra
 ,,,,TX,,500 N. State College Blvd,,TX,
 Arturo,Salinas,5148 EAGLE VALLEY ST,Cibolo,TX,78108,5148 Eagle Valley,Schertz,TX,78154
 ,,,,TX,,500 N. State College Blvd,,TX,
-Carlos,Henriquez,641 NORTHHILL CIR,New Braunfels,TX,78130,641 NORTHHILL,New Braunfels,TX,78130
+Brian,Mcneece,2960 MORLANGA STREET,New Braunfels,TX,78130,2960 MORLANGA ST,New Braunfels,TX,78130
+Alice,Godinez,248 LIMESTONE CRK,New Braunfels,TX,78130,248 LIMESTONE CRK,New Braunfels,TX,78130
+Tim,Lewis,1190 ROARING FALLS,New Braunfels,TX,78132,,,TX,
+Aceco,Llc,,,TX,,,,TX,
 Charles,Ricketts,441 RED ROSE ST,Spring Branch,TX,78070,,,TX,
 Robert,Gunn,828 GHOST DANCER,Fischer,TX,78623,,,TX,
 Joe,Kennedy,2229 LOMBARDY,New Braunfels,TX,78132,,,TX,
 Aka Carol Diane Riek Brown,Carol Diane Brown,5504 DEVONWOOD STREET,Cibolo,TX,78108,,,TX,
 John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 Donald,Kiesling,1053 SIXTREE DRIVE,New Braunfels,TX,78130,,,TX,
+Richard,Johnson,7963 CIBOLO VW,Fair Oaks Ranch,TX,78015,,,TX,
 Johnnie,Bezdek,7301 RIVER RD,New Braunfels,TX,78132,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,New Braunfels,TX,78130
+David,Gomez,6091 COMPANION ROAD,Bulverde,TX,78163,,,TX,
+Alfred,Martinez,3149 ELK RIVER TRL,Bulverde,TX,78163,,,TX,
+Christopher,Chavez,2532 ACEQUIA DR SW,Albuquerque,NM,87105,,,TX,
+J,Rodriguez,1228 HIGH HILLS DR,Canyon Lake,TX,78133,,,TX,
 M,Elpido,,,TX,,,,TX,
 Kimberly,Mack,,,TX,,,,TX,
-"Jana Assenheimer,Serenity At Sorrel Creek, Llc",Grant Revere Bynum,,,TX,,,,TX,
+Tamie,Gonzales,,,TX,,,,TX,
+"Jr.,Aka James H Rich, Jr.",James Howard Rich,,,TX,,,,TX,
+Hall,Donald,,,TX,,,,TX,
+Aka David Noble,David Harold Noble,,,TX,,,,TX,
+H,Rosalinda,,,TX,,,,TX,
+Julianna,Trevino,,,TX,,,,TX,
+Cassandra,Rivas,,,TX,,,,TX,
 Kristie,Metting,,,TX,,,,TX,
 Sylvia,Wakeham,,,TX,,,,TX,
 Mary,Simpson,,,TX,,,,TX,
@@ -139,9 +184,17 @@ Iii,Guy Raymond Mckeon,,,TX,,,,TX,
 Deceased,Estate Ofjerry Lee Burklund,,,TX,,,,TX,
 Ronald,Byrd,,,TX,,,,TX,
 Aka Julia C Anders,Julia Kent Anders,,,TX,,,,TX,
-W,David,,,TX,,,,TX,
-Holly,Thompson,,,TX,,,,TX,
-Liberty,Maldonado,,,TX,,,,TX,
-Debra,Farley,,,TX,,,,TX,
-Kyle,Robinson,,,TX,,,,TX,
-Sarah,Ibarra,,,TX,,,,TX,
+Raloso,Rainier,,,TX,,,,TX,
+John,Bocquet,,,TX,,,,TX,
+Elisa,Snover,,,TX,,,,TX,
+Michelle,Whitley,,,TX,,,,TX,
+Lynn,Lewis,,,TX,,,,TX,
+Olivia,Pearce,,,TX,,,,TX,
+Bradly,Rohde,,,TX,,,,TX,
+Montes,Hector,,,TX,,,,TX,
+Tatayana,Mcintyre,,,TX,,,,TX,
+Meredith,Friar,,,TX,,,,TX,
+Melissa,Voss,,,TX,,,,TX,
+Sara,Cardenas,,,TX,,,,TX,
+Lorelli,Lopez,,,TX,,,,TX,
+Stephanie,Holderfield,,,TX,,,,TX,
