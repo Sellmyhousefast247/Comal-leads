@@ -1,14 +1,31 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
+Courtney,Thurman,858 MERIDIAN DR,New Braunfels,TX,78132,858 MERIDIAN,New Braunfels,TX,78132
+Double,Llc,,,TX,,,,TX,
+Oscar,Garcia,1869 LUNA ST,New Braunfels,TX,78132,,,TX,
+Holly,Thompson,,,TX,,,,TX,
+Rachel,Woolard,,,TX,,,,TX,
+Alex,Fuentes,22014 GLEN ARDEN LANE,Katy,TX,77450,3125 CAMERON RIVER,Cibolo,TX,78108
+Leobardo,Gomez,1752 LAKE PARK DR,Spring Branch,TX,78070,1752 LAKE PARK DR,Spring Branch,TX,78070
 Bret,Barnard,1159 ASTRAL POINT,Spring Branch,TX,78070,2026 Deed Of Trust,New Braunfels,TX,78130
 Jose,Pacheco,295 CALLE PASEO,Guayanilla,PR,00656,2026 Original Deed Of Trust,Canyon Lake,TX,78133
+David,Rogers,410 STALLION SPRINGS DRIVE,Fischer,TX,78623,,,TX,
+Jerry,Hicks,1346 HANZ DR,New Braunfels,TX,78130,1346 HANZ,New Braunfels,TX,78130
+Sue,Mary,901 MADRONA DR,New Braunfels,TX,78132,901 MADRONA,New Braunfels,TX,78132
+Deborah,Holsey,JAMES R WHITAKER,New Braunfels,TX,78130,1066 LARKSPUR,New Braunfels,TX,78130-6502
+Arlene,Kearns,1906 OAK GLN,New Braunfels,TX,78132,1906 OAK GLEN,New Braunfels,TX,78132
 Llc,B & W Nb,311 WEST GAYWOOD,Houston,TX,77079,,,TX,
 Jose,Gomez,819 SILVERBERRY DRIVE,New Braunfels,TX,78132,,,TX,
 Gonzales,Felix,7031 DEVONSHIRE DRIVE,Spring Branch,TX,78070,7031 DEVONSHIRE,Spring Branch,TX,78070
 Amy,Scott,3011 SHALE CV,New Braunfels,TX,78130,3011 SHALE,New Braunfels,TX,78130
 Rudy,Martinez,706 NORTHERN LGTS DRIVE,New Braunfels,TX,78130,706 NORTHERN LIGHTS,New Braunfels,TX,78130
 Kristy,Wort,590 LAZY OAKS DR,Canyon Lake,TX,78133,590 LAZY OAKS,Canyon Lake,TX,78133
-Laurie,Jasinski,24 RIDGE DR,New Braunfels,TX,78130,24 RIDGE,New Braunfels,TX,78130
-Donald,Steele,777 TULSA TRL,New Braunfels,TX,78132,777 TULSA TRL,New Braunfels,TX,78132
+Faz,Juan,4020 MAIN AVE,Laredo,TX,78041,SERENITY PASS,Spring Branch,TX,78070
+Zapata,Rogelio,2940 MORLANGA ST,New Braunfels,TX,78130,2940 MORLANGA ST,New Braunfels,TX,78130
+Ashley,Davis,1710 JOY SPG,New Braunfels,TX,78130,1710 JOY SPG,New Braunfels,TX,78130
+Robert,Scott,2924 MINDEL ST,New Braunfels,TX,78130,2924 MINDEL ST,New Braunfels,TX,78130
+Troy,Henderson,555 LAS HADAS,Spring Branch,TX,78070,555 LAS HADAS,Spring Branch,TX,78070
+Daniel,Alvarez,2424 GOLF DR,Spring Branch,TX,78070,2424 GOLF,Spring Branch,TX,78070
+Moody,Joe,3253 HYACINTH,New Braunfels,TX,78130,3253 HYACINTH,New Braunfels,TX,78130
 Wayne,Metting,32204 CARDAMOM WAY,Bulverde,TX,78163,32204 CARDAMOM,Bulverde,TX,78163
 David,Mack,DAVID R MACK TRUSTEE,Fair Oaks Ranch,TX,78015,7710 INTREPID,Boerne,TX,78015
 G,Jessie,385 LOCKENER AVE,New Braunfels,TX,78130,385 LOCKENER,New Braunfels,TX,78130
@@ -25,6 +42,15 @@ Edwin,Warren,30454 CLOUD VIEW DR,Bulverde,TX,78163,30454 CLOUD VIEW,Bulverde,TX,
 Jr.,Lewis Paul Sarkozi,171 LOUISIANA AVE,New Braunfels,TX,78130,171 LOUISIANA,New Braunfels,TX,78130
 Pearly,Sowell,317 LAKEVIEW BLVD,New Braunfels,TX,78130,317 LAKEVIEW,New Braunfels,TX,78130
 Daniel,Balmos,1353 TIMBERWOOD TRL,New Braunfels,TX,78132,1353 TIMBERWOOD,New Braunfels,TX,78132
+Wesley,Mark,836 SOUTHWIND DR,New Braunfels,TX,78130,836 SOUTHWIND,New Braunfels,TX,78130
+Rosale,Scott,ROSALE E SCOTT TR,New Braunfels,TX,78132,1032 HANOVER,New Braunfels,TX,78132-2105
+Janice,Force,117 W OUTER DR,Canyon Lake,TX,78133,117 WEST OUTER,Canyon Lake,TX,78133
+L,Robin,165 SECRET WAY,Spring Branch,TX,78070,165 SECRET,Spring Branch,TX,78070
+"Aka Samuel D Mason,Aka Sam Mason",Samuel Diaz Mason,497 ROSEMELLOW ST,New Braunfels,TX,78132,497 ROSEMELLOW,New Braunfels,TX,78132
+James,Taylor,2013 LEGACY DRIVE,Faribault,MN,55021,,,TX,
+Waltraud,Kirschner,924 WHIPPOORWILL DR,Canyon Lake,TX,78133,,,TX,
+Edward,Ted,1912 CANYON LAKE DR,Canyon Lake,TX,78133,,,TX,
+Dale,Garcia,874 STIRRUP DR,Spring Branch,TX,78070,,,TX,
 ,,,,TX,,00 Deed Of Trust,Spring Branch,TX,12581
 ,,,,TX,,1300 West Lynn Street,Spring Branch,TX,12581
 ,,,,TX,,250 Misty Brook Spring,Spring Branch,TX,12581
@@ -78,13 +104,31 @@ Jorge,Ramirez,5945 COMPANION LOOP,Bulverde,TX,78163,,,TX,
 Oscar,Rodriguez,29632 DUSTY COPPER,Bulverde,TX,78163,,,TX,
 Adriana,Hernandez,1030 PEGASUS DR,Spring Branch,TX,78070,,,TX,
 Robert,Miller,165 HEIMER LANE,Canyon Lake,TX,78133,,,TX,
+Canyon,Llc,,,TX,,,,TX,
+Ii,James Michael Poyle,2404 WATERFRONT PARK DRIVE,Canyon Lake,TX,78133,,,TX,
+Travis,Shaw,,,TX,,,,TX,
+Benson,Michael,2920 SPLIT ROCK CIR,Bulverde,TX,78163,,,TX,
+R,Jaime,21018 VILLA VALENCIA,San Antionio,TX,78258,,,TX,
+Juan,Rodriguez,5911 FORENOON DR,Bulverde,TX,78163,,,TX,
+Galvis,Llc,,,TX,,,,TX,
+Llc,Strategic Fleet Solutions,,,TX,,,,TX,
 Charles,Ricketts,441 RED ROSE ST,Spring Branch,TX,78070,,,TX,
 Joe,Kennedy,2229 LOMBARDY,New Braunfels,TX,78132,,,TX,
 Aka Carol Diane Riek Brown,Carol Diane Brown,5504 DEVONWOOD STREET,Cibolo,TX,78108,,,TX,
 John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 Donald,Kiesling,1053 SIXTREE DRIVE,New Braunfels,TX,78130,,,TX,
+Richard,Johnson,7963 CIBOLO VW,Fair Oaks Ranch,TX,78015,,,TX,
+"Aka Johnnie Joseph Bezdek, Jr.",Johnnie Bezdek,7301 RIVER RD,New Braunfels,TX,78132,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,New Braunfels,TX,78130
+Kimberly,Mack,,,TX,,,,TX,
+Tamie,Gonzales,,,TX,,,,TX,
+"Jr.,Aka James H Rich, Jr.",James Howard Rich,,,TX,,,,TX,
+Hall,Donald,,,TX,,,,TX,
+Aka David Noble,David Harold Noble,,,TX,,,,TX,
+Collier,Don,,,TX,,,,TX,
+Richard,Sean,,,TX,,,,TX,
+Russell,Vandon,,,TX,,,,TX,
 Sultanti,Iana,,,TX,,,,TX,
 Brandon,Hunter,,,TX,,,,TX,
 Julia,Katiuzhinsky,,,TX,,,,TX,
@@ -104,7 +148,22 @@ Misty,Vina,,,TX,,,,TX,
 Remington,Clark,,,TX,,,,TX,
 Luis,Hostia,,,TX,,,,TX,
 Jason,Schweitzman,,,TX,,,,TX,
-Kristie,Metting,,,TX,,,,TX,
+R,Kenneth,,,TX,,,,TX,
+Allen,Steinbarth,,,TX,,,,TX,
+Lynn,Lewis,,,TX,,,,TX,
+Lopez,Roel,,,TX,,,,TX,
+Lost Creek Custom Bu A/K/A Lost Creek Custom Builders Inc,Kristy Curl,,,TX,,,,TX,
+Mario,Ruffin,,,TX,,,,TX,
+Carolyn,Smith,,,TX,,,,TX,
+Michael,Kay,,,TX,,,,TX,
+Arizcorreta,Emily,,,TX,,,,TX,
+Karitta,Reynolds,,,TX,,,,TX,
+Deborah,Suniga,,,TX,,,,TX,
+Justin,Palomo,,,TX,,,,TX,
+Danielle,Martinez,,,TX,,,,TX,
+Paul,Oxendine,,,TX,,,,TX,
+Nikki J Walker,Marian C Walker,,,TX,,,,TX,
+Jada,Brown,,,TX,,,,TX,
 Sylvia,Wakeham,,,TX,,,,TX,
 Mary,Simpson,,,TX,,,,TX,
 Gayle,Mary,,,TX,,,,TX,
@@ -144,3 +203,6 @@ Scott,Francis,,,TX,,,,TX,
 "Jr., Deceased",Estate Ofjames Paul Settles,,,TX,,,,TX,
 Deceased,Estate Ofjerry Lee Burklund,,,TX,,,,TX,
 Ronald,Byrd,,,TX,,,,TX,
+J,Henry,,,TX,,,,TX,
+Aka Julia C Anders,Julia Kent Anders,,,TX,,,,TX,
+M,Elpido,,,TX,,,,TX,
