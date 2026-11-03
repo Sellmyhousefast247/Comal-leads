@@ -1,24 +1,32 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
-Brett,Kinsel,131 LANTANA RDG,Spring Branch,TX,78070,131 LANTANA RDG,Spring Branch,TX,78070
-Galina,Pesheva,29539 DUSTY COPPER,Bulverde,TX,78163,29539 DUSTY COPPER,Bulverde,TX,78163
-Donald,Boerner,1016 BALDY MOUNTAIN CT,Canyon Lake,TX,78133,,,TX,
-Llc,Newrez,,,TX,,,,TX,
-Irma,Quintanilla,,,TX,,,,TX,
-Ashley,Wiseman,,,TX,,,,TX,
-Valeria,Yanez,,,TX,,,,TX,
-Brittani,Medina,,,TX,,,,TX,
-Jodie,Marlow,,,TX,,,,TX,
-Jarrod,Pledger,,,TX,,,,TX,
-Joanna,Pace,,,TX,,,,TX,
-Alex,Fuentes,22014 GLEN ARDEN LANE,Katy,TX,77450,3125 CAMERON RIVER,Cibolo,TX,78108
+K,Edward,953 WILDERNESS TRL,New Braunfels,TX,78132,953 WILDERNESS,New Braunfels,TX,78132
+Sofia,Ana,147 CONCEPCION AVE,New Braunfels,TX,78130,147 CONCEPCION,New Braunfels,TX,78130
+Tomlinson,Brooke,948 PARKVIEW LOOP,Canyon Lake,TX,78133,948 PARKVIEW,Canyon Lake,TX,78133
+Jesse,Sanchez,772 WILLOW CROSSING,New Braunfels,TX,78130,772 WILLOW CROSSING,New Braunfels,TX,78130
+Marisa,Lewis,2922 WOLFCREEK,New Braunfels,TX,78130,2922 WOLFCREEK,New Braunfels,TX,78130
+Flores,Bonnie,30540 SETTERFELD CIRCLE,Fair Oaks Ranch,TX,78015,30540 SETTERFELD,Fair Oaks Ranch,TX,78015
+Silva,Cynthia,326 VALLEY RIDGE,Canyon Lake,TX,78133,326 VALLEY RDG,Canyon Lake,TX,78133
+Gribi,Melissa,,,TX,,,,TX,
+Aguinaga,Diana,,,TX,,,,TX,
+Ty,Theus,,,TX,,,,TX,
+Claudia,Cantu,,,TX,,,,TX,
+Orona,Brittany,,,TX,,,,TX,
+John,Ray,,,TX,,,,TX,
+Kaitlin,Bateman,,,TX,,,,TX,
+Amber,Padilla,,,TX,,,,TX,
+Greg,Casillas,,,TX,,,,TX,
+Roxanne,Trevino,,,TX,,,,TX,
+Lance,Young,,,TX,,,,TX,
+Evan,Mcpherson,,,TX,,,,TX,
+Eschief,Karen,,,TX,,,,TX,
+Delossantos,Emily,,,TX,,,,TX,
 Leobardo,Gomez,1752 LAKE PARK DR,Spring Branch,TX,78070,1752 LAKE PARK DR,Spring Branch,TX,78070
 Bret,Barnard,1159 ASTRAL POINT,Spring Branch,TX,78070,2026 Deed Of Trust,New Braunfels,TX,78130
 Jose,Pacheco,295 CALLE PASEO,Guayanilla,PR,00656,2026 Original Deed Of Trust,Canyon Lake,TX,78133
+Alex,Fuentes,22014 GLEN ARDEN LANE,Katy,TX,77450,3125 CAMERON RIVER,Cibolo,TX,78108
 David,Rogers,410 STALLION SPRINGS DRIVE,Fischer,TX,78623,,,TX,
-Llc,B & W Nb,311 WEST GAYWOOD,Houston,TX,77079,,,TX,
-Jose,Gomez,819 SILVERBERRY DRIVE,New Braunfels,TX,78132,,,TX,
-Rudy,Martinez,706 NORTHERN LGTS DRIVE,New Braunfels,TX,78130,706 NORTHERN LIGHTS,New Braunfels,TX,78130
-Kristy,Wort,590 LAZY OAKS DR,Canyon Lake,TX,78133,590 LAZY OAKS,Canyon Lake,TX,78133
+Deborah,Holsey,JAMES R WHITAKER,New Braunfels,TX,78130,1066 LARKSPUR,New Braunfels,TX,78130-6502
+Arlene,Kearns,1906 OAK GLN,New Braunfels,TX,78132,1906 OAK GLEN,New Braunfels,TX,78132
 Faz,Juan,4020 MAIN AVE,Laredo,TX,78041,SERENITY PASS,Spring Branch,TX,78070
 Zapata,Rogelio,2940 MORLANGA ST,New Braunfels,TX,78130,2940 MORLANGA ST,New Braunfels,TX,78130
 Ashley,Davis,1710 JOY SPG,New Braunfels,TX,78130,1710 JOY SPG,New Braunfels,TX,78130
@@ -27,8 +35,6 @@ Troy,Henderson,555 LAS HADAS,Spring Branch,TX,78070,555 LAS HADAS,Spring Branch,
 Daniel,Alvarez,2424 GOLF DR,Spring Branch,TX,78070,2424 GOLF,Spring Branch,TX,78070
 Moody,Joe,3253 HYACINTH,New Braunfels,TX,78130,3253 HYACINTH,New Braunfels,TX,78130
 Courtney,Thurman,858 MERIDIAN DR,New Braunfels,TX,78132,858 MERIDIAN,New Braunfels,TX,78132
-David,Mack,DAVID R MACK TRUSTEE,Fair Oaks Ranch,TX,78015,7710 INTREPID,Boerne,TX,78015
-G,Jessie,385 LOCKENER AVE,New Braunfels,TX,78130,385 LOCKENER,New Braunfels,TX,78130
 Sue,Linda,651 NW CROSSING DR,New Braunfels,TX,78130,651 NORTHWEST CROSSING,New Braunfels,TX,78130
 Theodore,Vervais,314 MARTIN DR,Aptos,CA,95003,2208 GRANADA HILLS,New Braunfels,TX,78132
 Robert,Carpenter,1143 POWDER RIDGE,New Braunfels,TX,78132,1135 POWDER RIDGE RD,New Braunfels,TX,78132
@@ -48,6 +54,10 @@ Janice,Force,117 W OUTER DR,Canyon Lake,TX,78133,117 WEST OUTER,Canyon Lake,TX,7
 L,Robin,165 SECRET WAY,Spring Branch,TX,78070,165 SECRET,Spring Branch,TX,78070
 "Aka Samuel D Mason,Aka Sam Mason",Samuel Diaz Mason,497 ROSEMELLOW ST,New Braunfels,TX,78132,497 ROSEMELLOW,New Braunfels,TX,78132
 Jerry,Hicks,1346 HANZ DR,New Braunfels,TX,78130,1346 HANZ,New Braunfels,TX,78130
+Sue,Mary,901 MADRONA DR,New Braunfels,TX,78132,901 MADRONA,New Braunfels,TX,78132
+Dale,Garcia,874 STIRRUP DR,Spring Branch,TX,78070,,,TX,
+Llc,B & W Nb,311 WEST GAYWOOD,Houston,TX,77079,,,TX,
+Jose,Gomez,819 SILVERBERRY DRIVE,New Braunfels,TX,78132,,,TX,
 ,,,,TX,,00 Deed Of Trust,Spring Branch,TX,12581
 ,,,,TX,,1300 West Lynn Street,Spring Branch,TX,12581
 ,,,,TX,,250 Misty Brook Spring,Spring Branch,TX,12581
@@ -97,12 +107,8 @@ Leon,De,1620 GREEN MEADOW LN,Spring Branch,TX,78070,1620 Green Meadow,Spring Bra
 ,,,,TX,,500 N. State College Blvd,,TX,
 Arturo,Salinas,5148 EAGLE VALLEY ST,Cibolo,TX,78108,5148 Eagle Valley,Schertz,TX,78154
 ,,,,TX,,500 N. State College Blvd,,TX,
-Gonzales,Felix,7031 DEVONSHIRE DRIVE,Spring Branch,TX,78070,7031 DEVONSHIRE,Spring Branch,TX,78070
-Amy,Scott,3011 SHALE CV,New Braunfels,TX,78130,3011 SHALE,New Braunfels,TX,78130
-Robert,Miller,165 HEIMER LANE,Canyon Lake,TX,78133,,,TX,
-Canyon,Llc,,,TX,,,,TX,
-Ii,James Michael Poyle,2404 WATERFRONT PARK DRIVE,Canyon Lake,TX,78133,,,TX,
-Travis,Shaw,,,TX,,,,TX,
+Rudy,Martinez,706 NORTHERN LGTS DRIVE,New Braunfels,TX,78130,706 NORTHERN LIGHTS,New Braunfels,TX,78130
+Kristy,Wort,590 LAZY OAKS DR,Canyon Lake,TX,78133,590 LAZY OAKS,Canyon Lake,TX,78133
 Benson,Michael,2920 SPLIT ROCK CIR,Bulverde,TX,78163,,,TX,
 R,Jaime,21018 VILLA VALENCIA,San Antionio,TX,78258,,,TX,
 Juan,Rodriguez,5911 FORENOON DR,Bulverde,TX,78163,,,TX,
@@ -116,20 +122,19 @@ Aka Carol Diane Riek Brown,Carol Diane Brown,5504 DEVONWOOD STREET,Cibolo,TX,781
 John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
 Donald,Kiesling,1053 SIXTREE DRIVE,New Braunfels,TX,78130,,,TX,
 Richard,Johnson,7963 CIBOLO VW,Fair Oaks Ranch,TX,78015,,,TX,
+James,Taylor,2013 LEGACY DRIVE,Faribault,MN,55021,,,TX,
+Waltraud,Kirschner,924 WHIPPOORWILL DR,Canyon Lake,TX,78133,,,TX,
+Edward,Ted,1912 CANYON LAKE DR,Canyon Lake,TX,78133,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,New Braunfels,TX,78130
-Jorge,Ramirez,5945 COMPANION LOOP,Bulverde,TX,78163,,,TX,
-Oscar,Rodriguez,29632 DUSTY COPPER,Bulverde,TX,78163,,,TX,
-Adriana,Hernandez,1030 PEGASUS DR,Spring Branch,TX,78070,,,TX,
+Robert,Miller,165 HEIMER LANE,Canyon Lake,TX,78133,,,TX,
+Canyon,Llc,,,TX,,,,TX,
+Ii,James Michael Poyle,2404 WATERFRONT PARK DRIVE,Canyon Lake,TX,78133,,,TX,
+Travis,Shaw,,,TX,,,,TX,
 "Aka Johnnie Joseph Bezdek, Jr.",Johnnie Bezdek,7301 RIVER RD,New Braunfels,TX,78132,,,TX,
-Infocus,Llc,,,TX,,,,TX,
-Tristan,Moore,,,TX,,,,TX,
-Messerole,Kamri,,,TX,,,,TX,
-Holly,Thompson,,,TX,,,,TX,
-Misty,Vina,,,TX,,,,TX,
-Remington,Clark,,,TX,,,,TX,
-Luis,Hostia,,,TX,,,,TX,
-Jason,Schweitzman,,,TX,,,,TX,
+Collier,Don,,,TX,,,,TX,
+Richard,Sean,,,TX,,,,TX,
+Russell,Vandon,,,TX,,,,TX,
 R,Kenneth,,,TX,,,,TX,
 Allen,Steinbarth,,,TX,,,,TX,
 Lynn,Lewis,,,TX,,,,TX,
@@ -186,14 +191,14 @@ Aka Julia C Anders,Julia Kent Anders,,,TX,,,,TX,
 M,Elpido,,,TX,,,,TX,
 Kimberly,Mack,,,TX,,,,TX,
 Tamie,Gonzales,,,TX,,,,TX,
-Sultanti,Iana,,,TX,,,,TX,
-Brandon,Hunter,,,TX,,,,TX,
-Julia,Katiuzhinsky,,,TX,,,,TX,
-Ashley,Silva,,,TX,,,,TX,
-Connie,Guerra,,,TX,,,,TX,
-Alicia,Mayfield,,,TX,,,,TX,
-Cecil,Iii,,,TX,,,,TX,
-Azyade,Taylor,,,TX,,,,TX,
-Payricia,Sttandberg,,,TX,,,,TX,
-Oralia,Timmermann,,,TX,,,,TX,
-Segundo,Leticia,,,TX,,,,TX,
+"Jr.,Aka James H Rich, Jr.",James Howard Rich,,,TX,,,,TX,
+Hall,Donald,,,TX,,,,TX,
+Aka David Noble,David Harold Noble,,,TX,,,,TX,
+Infocus,Llc,,,TX,,,,TX,
+Tristan,Moore,,,TX,,,,TX,
+Messerole,Kamri,,,TX,,,,TX,
+Holly,Thompson,,,TX,,,,TX,
+Misty,Vina,,,TX,,,,TX,
+Remington,Clark,,,TX,,,,TX,
+Luis,Hostia,,,TX,,,,TX,
+Jason,Schweitzman,,,TX,,,,TX,
