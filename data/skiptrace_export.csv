@@ -1,11 +1,13 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
+Jackson,Ginger,,,TX,,,,TX,
+Cherri,Field,,,TX,,,,TX,
 Pena,Manuel,390 RHAPSODY VIEW,Spring Branch,TX,78070,390 Rhapsody View,Spring Branch,TX,78070
 Akyeh,Frank,5501 KINGSWOOD ST,Schertz,TX,78108,3637 Sentara Way,Schertz,TX,78108
 ,Lauren Casey Gonzalez And Johan Gonzalez,29611 COPPER PENNY,Bulverde,TX,78163,29611 COPPER PENNY,Bulverde,TX,78163
-Jeffery,Barber,111 SWALLOW CT,Canyon Lake,TX,78133,111 SWALLOW,Canyon Lake,TX,78133
-Jeffery,Barber,111 SWALLOW CT,Canyon Lake,TX,78133,111 SWALLOW,Canyon Lake,TX,78133
-Donald,Knebel,652 NORTHGAP DR,New Braunfels,TX,78130,652 NORTHGAP,New Braunfels,TX,78130
-John,Walley,1024 GARDENIA DR,New Braunfels,TX,78130,1024 GARDENIA,New Braunfels,TX,78130
+Tyler,Smith,1166 LOMA VERDE DRIVE,New Braunfels,TX,78130,1166 LOMA VERDE,New Braunfels,TX,78130
+Donald,Jackson,1048 STAR RDG,Spring Branch,TX,78070,1048 STAR RDG,Spring Branch,TX,78070
+Robert,Scott,2924 MINDEL ST,New Braunfels,TX,78130,2924 MINDEL ST,New Braunfels,TX,78130
+Patricia,Perez,263 LIMESTONE CRK,New Braunfels,TX,78130,263 LIMESTONE CRK,New Braunfels,TX,78130
 Rita,Hill,1289 AMANDA,Canyon Lake,TX,78133,1289 AMANDA,Canyon Lake,TX,78133
 Linda,Fox,3041 ROLLING OAKS DR,New Braunfels,TX,78132,3041 ROLLING OAKS,New Braunfels,TX,78132
 Jr.,Anthony Wayne Cloudt,10310 HUNTERS PATH,New Braunfels,TX,78132,10310 HUNTERS PATH,New Braunfels,TX,78132
@@ -64,6 +66,13 @@ Bryan,Werner,129 SHADOW MOUNTAIN RD,Spring Branch,TX,78070,129 Shadow Mountain R
 Joy,Samantha,,,TX,,21650 Assert And Protect,Bulverde,TX,78163
 Securing The Payment Of The,Cory Jeter,,,TX,,1318 Mountain Top Loop,Canyon Lake,TX,78133
 ,,,,TX,,7500 Dallas Pkwy,,TX,
+Jeffery,Barber,111 SWALLOW CT,Canyon Lake,TX,78133,111 SWALLOW,Canyon Lake,TX,78133
+Jeffery,Barber,111 SWALLOW CT,Canyon Lake,TX,78133,111 SWALLOW,Canyon Lake,TX,78133
+Donald,Knebel,652 NORTHGAP DR,New Braunfels,TX,78130,652 NORTHGAP,New Braunfels,TX,78130
+John,Walley,1024 GARDENIA DR,New Braunfels,TX,78130,1024 GARDENIA,New Braunfels,TX,78130
+David,Young,419 HIGHLAND HILL,San Antonio,TX,78260,,,TX,
+Tracy,Moretz,PO BOX 1046,Spring Branch,TX,78070,,,TX,
+Rachel,Lagunas,309 GRANADA DR,New Braunfels,TX,78130,,,TX,
 Joe,Kennedy,2229 LOMBARDY,New Braunfels,TX,78132,,,TX,
 Aka Carol Diane Riek Brown,Carol Diane Brown,5504 DEVONWOOD STREET,Cibolo,TX,78108,,,TX,
 John,Engelhardt,PO BOX 187,Fischer,TX,78623,,,TX,
@@ -75,6 +84,7 @@ Edward,Ted,1912 CANYON LAKE DR,Canyon Lake,TX,78133,,,TX,
 Dale,Garcia,874 STIRRUP DR,Spring Branch,TX,78070,,,TX,
 Jr.,Robert Ervin Craft,688 SHEPHERDS RNCH,Bulverde,TX,78163,,,TX,
 "Aka Leroy J Muecke,Aka Leroy Muecke",Leroy James Muecke,613 DAYFLOWER LN,New Braunfels,TX,78132,,,TX,
+Michael,Radino,515 WIESNER ROAD,Spring Branch,TX,78070,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,,TX,
 ,,,,TX,,,,TX,
@@ -83,22 +93,27 @@ Jr.,Robert Ervin Craft,688 SHEPHERDS RNCH,Bulverde,TX,78163,,,TX,
 Jonathan,Um,,,TX,,,,TX,
 ,,,,TX,,,,TX,
 Aaron,Of,,,TX,,,New Braunfels,TX,78130
+Smithfam,Llc,,,TX,,,,TX,
+Kriselda,Gonzales,,,TX,,,,TX,
+Marubeni,Corp,,,TX,,,,TX,
 "Aka Johnnie Joseph Bezdek, Jr.",Johnnie Bezdek,7301 RIVER RD,New Braunfels,TX,78132,,,TX,
-Ruben,Jimenez,,,TX,,,,TX,
-Raquel,Zambrano,,,TX,,,,TX,
-Martinez,Andrea,,,TX,,,,TX,
-Quintanilla,Daniella,,,TX,,,,TX,
-Elise,Koerner,,,TX,,,,TX,
-Nerlyn,Garcia,,,TX,,,,TX,
-Maria,Becerra,,,TX,,,,TX,
-Maria,Becerra,,,TX,,,,TX,
-Daniel,Garland,,,TX,,,,TX,
-Fernandez-Degroat,Stephanie,,,TX,,,,TX,
-Guerrero,Maximino,,,TX,,,,TX,
-Monica,Copeland,,,TX,,,,TX,
-Tovar,Angela,,,TX,,,,TX,
-"Aka Sidney Earl Bemus, Deceased",Estate Ofsid Bemus,,,TX,,,,TX,
-Harry,George,,,TX,,,,TX,
+Sr.,Jesse John Jobes,,,TX,,,,TX,
+Aka Elida Schlitzberger,Elida Montemayor Schlitzberger,,,TX,,,,TX,
+Merton,Richard,115 ROYAL TROON LN,Canyon Lake,TX,78133,,,TX,
+Aka Robert G Lee,Robert George Lee,,,TX,,,,TX,
+Francisca,Luna,,,TX,,,,TX,
+Paul,John,,,TX,,,,TX,
+"Aka Howard Bennie Fox, Deceased",Estate Ofhoward B Fox,,,TX,,,,TX,
+James,Edmondson,,,TX,,,,TX,
+Shelly,Cooper,,,TX,,,,TX,
+Dominique,Cross,,,TX,,,,TX,
+",Vanessa Robinson",Roger Robinson,,,TX,,,,TX,
+Nicole,Robinson,,,TX,,,,TX,
+Urias,Monique,,,TX,,,,TX,
+Remington,Clark,,,TX,,,,TX,
+Camilla,Mamuth,,,TX,,,,TX,
+Barbara,Bills,,,TX,,,,TX,
+Tyler,Denton,,,TX,,,,TX,
 Aka Nancy Marie Tiller,Nancy Triska Tiller,,,TX,,,,TX,
 L,Donna,,,TX,,,,TX,
 Dale,Hemsell,,,TX,,,,TX,
@@ -135,3 +150,23 @@ Richard,Sean,,,TX,,,,TX,
 Russell,Vandon,,,TX,,,,TX,
 Belia,Pelayo,,,TX,,,,TX,
 "Aka Gary G Galbraith, Deceased",Estate Ofgary Glenn Galbraith,,,TX,,,,TX,
+Ardith,Bousquet,,,TX,,,,TX,
+Maria,Zayas,,,TX,,,,TX,
+Leota,Kelly,,,TX,,,,TX,
+Edward,Lyle,,,TX,,,,TX,
+"Jr.,Aka Edward G Schaper, Jr.,Aka Edward G Schaper, Deceased",Estate Ofedward George Schaper,,,TX,,,,TX,
+Ruben,Jimenez,,,TX,,,,TX,
+Raquel,Zambrano,,,TX,,,,TX,
+Martinez,Andrea,,,TX,,,,TX,
+Quintanilla,Daniella,,,TX,,,,TX,
+Elise,Koerner,,,TX,,,,TX,
+Nerlyn,Garcia,,,TX,,,,TX,
+Maria,Becerra,,,TX,,,,TX,
+Maria,Becerra,,,TX,,,,TX,
+Daniel,Garland,,,TX,,,,TX,
+Fernandez-Degroat,Stephanie,,,TX,,,,TX,
+Guerrero,Maximino,,,TX,,,,TX,
+Monica,Copeland,,,TX,,,,TX,
+Tovar,Angela,,,TX,,,,TX,
+Shey Murray,Tammie Murray,,,TX,,,,TX,
+Shey Murray,Tammie Murray,,,TX,,,,TX,
